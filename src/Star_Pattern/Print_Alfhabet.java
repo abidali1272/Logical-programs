@@ -1,11 +1,9 @@
-package Ejaz_bhai_task;
+package Star_Pattern;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class read_csv_file {
-
+public class Print_Alfhabet {
+	
 	void A() {
 		int n = 5;
 
@@ -139,7 +137,7 @@ public class read_csv_file {
 		
 		
 		
-
 	}
+	
 
 }
